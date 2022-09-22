@@ -10,7 +10,7 @@ Send back and email with the URL that you copied in order for the code to be rev
 
 ### Useful Documentation
  - **JSON Placeholder** (used as API) [website](https://jsonplaceholder.typicode.com/guide/), [github](https://github.com/typicode/json-server)
- - **Akita** (used as state manager) [website](https://datorama.github.io/akita/), [github](https://github.com/datorama/akita/)
+ - **Akita** (used as state manager) [website](https://opensource.salesforce.com/akita/docs/entities/entity-store), [github](https://github.com/salesforce/akita/)
 ---
 ## 1 - Interfaces and Types
 
