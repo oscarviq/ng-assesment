@@ -116,6 +116,6 @@ Send back and email with the URL that you copied in order for the code to be rev
 ## 5 - Interceptors ([docs](https://angular.io/guide/http#intercepting-requests-and-responses))
 - Create an http interceptor called **LoggerInterceptor**  in `src/app/shared/interceptors/logger.interceptor.ts` that outputs the response of every http request to the browser's developer console using **console.log()** 
 
-## Bonus - State Management ([Akita](https://datorama.github.io/akita/docs))
+## Bonus - State Management ([Akita](https://opensource.salesforce.com/akita/))
 
 - Tap into the **UserService.getUserCount()** observable **using an rxjs operator** and populate the **UsersStore**. Look at the **Entity Store** section of the akita docs for guidance: https://datorama.github.io/akita/docs/entities/entity-store
