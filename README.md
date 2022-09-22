@@ -118,4 +118,4 @@ Send back and email with the URL that you copied in order for the code to be rev
 
 ## Bonus - State Management ([Akita](https://opensource.salesforce.com/akita/))
 
-- Tap into the **UserService.getUserCount()** observable **using an rxjs operator** and populate the **UsersStore**. Look at the **Entity Store** section of the akita docs for guidance: https://datorama.github.io/akita/docs/entities/entity-store
+- Tap into the **UserService.getUserCount()** observable **using an rxjs operator** and populate the **UsersStore**. Look at the **Entity Store** section of the akita docs for guidance: [https://datorama.github.io/akita/docs/entities/entity-store](https://opensource.salesforce.com/akita/docs/entities/entity-store)
